@@ -1,0 +1,6 @@
+{
+  "problem": "Valid Parenthesis String",
+  "number": 678,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0678-valid-parenthesis-string.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/15-greedy/medium/valid-parenthesis-string/README.md"
+}

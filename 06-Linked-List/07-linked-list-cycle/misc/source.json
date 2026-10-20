@@ -1,0 +1,6 @@
+{
+  "problem": "Linked List Cycle",
+  "number": 141,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0141-linked-list-cycle.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/easy/linked-list-cycle/README.md"
+}

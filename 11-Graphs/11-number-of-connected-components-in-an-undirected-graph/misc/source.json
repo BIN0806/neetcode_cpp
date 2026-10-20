@@ -1,0 +1,6 @@
+{
+  "problem": "Number of Connected Components In An Undirected Graph",
+  "number": 323,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0323-number-of-connected-components-in-an-undirected-graph.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/number-of-connected-components-in-an-undirected-graph/README.md"
+}

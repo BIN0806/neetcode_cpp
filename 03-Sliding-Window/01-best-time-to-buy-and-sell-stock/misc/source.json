@@ -1,0 +1,6 @@
+{
+  "problem": "Best Time to Buy And Sell Stock",
+  "number": 121,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0121-best-time-to-buy-and-sell-stock.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/easy/best-time-to-buy-and-sell-stock/README.md"
+}

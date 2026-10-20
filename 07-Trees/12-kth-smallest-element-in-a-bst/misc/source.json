@@ -1,0 +1,6 @@
+{
+  "problem": "Kth Smallest Element In a Bst",
+  "number": 230,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0230-kth-smallest-element-in-a-bst.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/medium/kth-smallest-element-in-a-bst/README.md"
+}

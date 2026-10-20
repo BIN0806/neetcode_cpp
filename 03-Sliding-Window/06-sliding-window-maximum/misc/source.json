@@ -1,0 +1,6 @@
+{
+  "problem": "Sliding Window Maximum",
+  "number": 239,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0239-sliding-window-maximum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/hard/sliding-window-maximum/README.md"
+}

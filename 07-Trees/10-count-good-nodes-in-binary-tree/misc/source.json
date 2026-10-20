@@ -1,0 +1,6 @@
+{
+  "problem": "Count Good Nodes In Binary Tree",
+  "number": 1448,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1448-count-good-nodes-in-binary-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/medium/count-good-nodes-in-binary-tree/README.md"
+}

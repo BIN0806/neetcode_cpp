@@ -1,0 +1,6 @@
+{
+  "problem": "Last Stone Weight",
+  "number": 1046,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1046-last-stone-weight.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/easy/last-stone-weight/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Single Number",
+  "number": 136,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0136-single-number.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/18-bit-manipulation/easy/single-number/README.md"
+}

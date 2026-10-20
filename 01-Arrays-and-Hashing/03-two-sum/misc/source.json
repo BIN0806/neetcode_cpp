@@ -1,0 +1,6 @@
+{
+  "problem": "Two Sum",
+  "number": 1,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0001-two-sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/easy/two-sum/README.md"
+}

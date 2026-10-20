@@ -1,0 +1,6 @@
+{
+  "problem": "Copy List With Random Pointer",
+  "number": 138,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0138-copy-list-with-random-pointer.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/medium/copy-list-with-random-pointer/README.md"
+}

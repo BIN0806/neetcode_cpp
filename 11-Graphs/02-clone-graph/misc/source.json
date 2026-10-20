@@ -1,0 +1,6 @@
+{
+  "problem": "Clone Graph",
+  "number": 133,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0133-clone-graph.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/clone-graph/README.md"
+}

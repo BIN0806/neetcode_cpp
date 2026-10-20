@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Consecutive Sequence",
+  "number": 128,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0128-longest-consecutive-sequence.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/longest-consecutive-sequence/README.md"
+}

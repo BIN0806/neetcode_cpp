@@ -1,0 +1,6 @@
+{
+  "problem": "Distinct Subsequences",
+  "number": 115,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0115-distinct-subsequences.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/hard/distinct-subsequences/README.md"
+}

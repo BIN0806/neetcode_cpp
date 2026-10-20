@@ -1,0 +1,6 @@
+{
+  "problem": "Unique Paths",
+  "number": 62,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0062-unique-paths.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/unique-paths/README.md"
+}

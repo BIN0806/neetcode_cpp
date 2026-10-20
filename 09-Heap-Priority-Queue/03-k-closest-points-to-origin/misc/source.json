@@ -1,0 +1,6 @@
+{
+  "problem": "K Closest Points to Origin",
+  "number": 973,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0973-k-closest-points-to-origin.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/medium/k-closest-points-to-origin/README.md"
+}

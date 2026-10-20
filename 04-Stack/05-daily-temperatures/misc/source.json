@@ -1,0 +1,6 @@
+{
+  "problem": "Daily Temperatures",
+  "number": 739,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0739-daily-temperatures.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/medium/daily-temperatures/README.md"
+}

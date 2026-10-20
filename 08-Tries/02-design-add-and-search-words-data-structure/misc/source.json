@@ -1,0 +1,6 @@
+{
+  "problem": "Design Add And Search Words Data Structure",
+  "number": 211,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0211-design-add-and-search-words-data-structure.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/08-tries/medium/design-add-and-search-words-data-structure/README.md"
+}

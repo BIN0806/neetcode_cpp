@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Increasing Path In a Matrix",
+  "number": 329,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0329-longest-increasing-path-in-a-matrix.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/hard/longest-increasing-path-in-a-matrix/README.md"
+}

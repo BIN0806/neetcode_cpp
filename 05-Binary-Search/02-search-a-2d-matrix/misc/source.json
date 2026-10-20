@@ -1,0 +1,6 @@
+{
+  "problem": "Search a 2D Matrix",
+  "number": 74,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0074-search-a-2d-matrix.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/05-binary-search/medium/search-a-2d-matrix/README.md"
+}

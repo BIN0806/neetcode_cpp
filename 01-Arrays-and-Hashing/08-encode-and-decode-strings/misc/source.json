@@ -1,0 +1,6 @@
+{
+  "problem": "Encode and Decode Strings",
+  "number": 271,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0271-encode-and-decode-strings.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/encode-and-decode-strings/README.md"
+}

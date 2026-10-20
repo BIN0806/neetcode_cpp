@@ -1,0 +1,6 @@
+{
+  "problem": "Valid Palindrome",
+  "number": 125,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0125-valid-palindrome.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/02-two-pointers/easy/valid-palindrome/README.md"
+}

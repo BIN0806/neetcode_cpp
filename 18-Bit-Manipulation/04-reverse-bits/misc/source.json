@@ -1,0 +1,6 @@
+{
+  "problem": "Reverse Bits",
+  "number": 190,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0190-reverse-bits.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/18-bit-manipulation/easy/reverse-bits/README.md"
+}

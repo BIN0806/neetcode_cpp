@@ -1,0 +1,6 @@
+{
+  "problem": "Number of Islands",
+  "number": 200,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0200-number-of-islands.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/number-of-islands/README.md"
+}

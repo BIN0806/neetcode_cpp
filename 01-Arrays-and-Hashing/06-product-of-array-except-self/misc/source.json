@@ -1,0 +1,6 @@
+{
+  "problem": "Product of Array Except Self",
+  "number": 238,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0238-product-of-array-except-self.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/product-of-array-except-self/README.md"
+}

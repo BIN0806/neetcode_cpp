@@ -1,0 +1,6 @@
+{
+  "problem": "Generate Parentheses",
+  "number": 22,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/04-Stack/04-generate-parentheses/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/medium/generate-parentheses/README.md"
+}

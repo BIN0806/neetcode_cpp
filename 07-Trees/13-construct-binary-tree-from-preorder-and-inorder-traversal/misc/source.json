@@ -1,0 +1,6 @@
+{
+  "problem": "Construct Binary Tree From Preorder And Inorder Traversal",
+  "number": 105,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0105-construct-binary-tree-from-preorder-and-inorder-traversal.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/medium/construct-binary-tree-from-preorder-and-inorder-traversal/README.md"
+}

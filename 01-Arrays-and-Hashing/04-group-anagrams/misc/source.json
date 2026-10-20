@@ -1,0 +1,6 @@
+{
+  "problem": "Group Anagrams",
+  "number": 49,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0049-group-anagrams.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/group-anagrams/README.md"
+}

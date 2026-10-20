@@ -1,0 +1,6 @@
+{
+  "problem": "Find The Duplicate Number",
+  "number": 287,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0287-find-the-duplicate-number.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/medium/find-the-duplicate-number/README.md"
+}

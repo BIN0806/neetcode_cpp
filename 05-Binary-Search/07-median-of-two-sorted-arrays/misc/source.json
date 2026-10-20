@@ -1,0 +1,6 @@
+{
+  "problem": "Median of Two Sorted Arrays",
+  "number": 4,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0004-median-of-two-sorted-arrays.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/05-binary-search/hard/median-of-two-sorted-arrays/README.md"
+}

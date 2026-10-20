@@ -1,0 +1,6 @@
+{
+  "problem": "Search In Rotated Sorted Array",
+  "number": 33,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0033-search-in-rotated-sorted-array.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/05-binary-search/medium/search-in-rotated-sorted-array/README.md"
+}

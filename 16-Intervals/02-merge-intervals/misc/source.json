@@ -1,0 +1,6 @@
+{
+  "problem": "Merge Intervals",
+  "number": 56,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0056-merge-intervals.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/16-intervals/medium/merge-intervals/README.md"
+}

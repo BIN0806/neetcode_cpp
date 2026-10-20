@@ -1,0 +1,6 @@
+{
+  "problem": "Permutation In String",
+  "number": 567,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0567-permutation-in-string.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/medium/permutation-in-string/README.md"
+}

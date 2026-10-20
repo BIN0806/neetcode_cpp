@@ -1,0 +1,6 @@
+{
+  "problem": "Kth Largest Element In a Stream",
+  "number": 703,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0703-kth-largest-element-in-a-stream.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/easy/kth-largest-element-in-a-stream/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Redundant Connection",
+  "number": 684,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0684-redundant-connection.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/redundant-connection/README.md"
+}

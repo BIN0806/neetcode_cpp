@@ -1,0 +1,6 @@
+{
+  "problem": "Maximum Product Subarray",
+  "number": 152,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0152-maximum-product-subarray.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/maximum-product-subarray/README.md"
+}

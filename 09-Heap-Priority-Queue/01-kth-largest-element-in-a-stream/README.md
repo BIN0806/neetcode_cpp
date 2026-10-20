@@ -1,0 +1,51 @@
+# Kth Largest Element in a Stream
+
+| | |
+|---|---|
+| **LeetCode ID** | 703 |
+| **Difficulty** | Easy |
+| **Category** | Heap / Priority Queue |
+| **LeetCode URL** | https://leetcode.com/problems/kth-largest-element-in-a-stream/ |
+
+## Problem
+
+Design a class to find the kth largest element in a stream of numbers. The class should have a constructor which accepts an integer k and an integer array nums, and a method add which adds a new value and returns the kth largest element.
+
+## Examples
+
+**Example 1:**
+```
+Input
+["KthLargest", "add", "add", "add", "add", "add"]
+[[3, [4, 5, 8, 2]], [3], [5], [10], [9], [4]]
+Output
+[null, 4, 5, 5, 8, 8]
+
+Explanation
+KthLargest kthLargest = new KthLargest(3, [4, 5, 8, 2]);
+kthLargest.add(3);   // return 4
+kthLargest.add(5);   // return 5
+kthLargest.add(10);  // return 5
+kthLargest.add(9);   // return 8
+kthLargest.add(4);   // return 8
+```
+
+## Constraints
+
+- 1 <= k <= 10^4
+- 0 <= nums.length <= 10^4
+- -10^4 <= nums[i] <= 10^4
+- -10^4 <= val <= 10^4
+- At most 10^4 calls will be made to add.
+- It is guaranteed that there will be at least k elements in the array when you search for the kth element.
+
+## Local practice
+
+Edit `solution.cpp`, then run:
+
+```sh
+./test
+```
+
+Tests live in `tests/cases.cpp`. Reference answers in `misc/reference.hpp` contain spoilers.
+These are independent local tests, not the platform’s private judge suite.

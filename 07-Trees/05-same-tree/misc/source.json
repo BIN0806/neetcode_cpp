@@ -1,0 +1,6 @@
+{
+  "problem": "Same Tree",
+  "number": 100,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0100-same-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/easy/same-tree/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Valid Parentheses",
+  "number": 20,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0020-valid-parentheses.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/easy/valid-parentheses/README.md"
+}

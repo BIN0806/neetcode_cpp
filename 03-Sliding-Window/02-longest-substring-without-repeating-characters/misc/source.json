@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Substring Without Repeating Characters",
+  "number": 3,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0003-longest-substring-without-repeating-characters.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/medium/longest-substring-without-repeating-characters/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Jump Game",
+  "number": 55,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0055-jump-game.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/15-greedy/medium/jump-game/README.md"
+}

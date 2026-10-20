@@ -1,0 +1,6 @@
+{
+  "problem": "Binary Tree Maximum Path Sum",
+  "number": 124,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0124-binary-tree-maximum-path-sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/hard/binary-tree-maximum-path-sum/README.md"
+}

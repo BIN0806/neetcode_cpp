@@ -1,0 +1,6 @@
+{
+  "problem": "Detect Squares",
+  "number": 2013,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/2013-detect-squares.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/17-math-geometry/medium/detect-squares/README.md"
+}

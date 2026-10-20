@@ -1,0 +1,6 @@
+{
+  "problem": "Time Based Key Value Store",
+  "number": 981,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0981-time-based-key-value-store.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/05-binary-search/medium/time-based-key-value-store/README.md"
+}

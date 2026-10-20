@@ -1,0 +1,6 @@
+{
+  "problem": "Pow(x, n)",
+  "number": 50,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/17-Math-and-Geometry/06-powx-n/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/17-math-geometry/medium/pow-x-n/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Invert Binary Tree",
+  "number": 226,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0226-invert-binary-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/easy/invert-binary-tree/README.md"
+}

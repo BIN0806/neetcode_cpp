@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Increasing Subsequence",
+  "number": 300,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0300-longest-increasing-subsequence.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/longest-increasing-subsequence/README.md"
+}

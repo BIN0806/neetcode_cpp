@@ -1,0 +1,6 @@
+{
+  "problem": "Implement Trie Prefix Tree",
+  "number": 208,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0208-implement-trie-prefix-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/08-tries/medium/implement-trie-prefix-tree/README.md"
+}

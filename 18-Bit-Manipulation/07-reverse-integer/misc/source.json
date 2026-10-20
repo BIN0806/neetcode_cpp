@@ -1,0 +1,6 @@
+{
+  "problem": "Reverse Integer",
+  "number": 7,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0007-reverse-integer.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/18-bit-manipulation/medium/reverse-integer/README.md"
+}

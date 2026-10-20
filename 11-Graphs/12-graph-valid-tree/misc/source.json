@@ -1,0 +1,6 @@
+{
+  "problem": "Graph Valid Tree",
+  "number": 261,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0261-graph-valid-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/graph-valid-tree/README.md"
+}

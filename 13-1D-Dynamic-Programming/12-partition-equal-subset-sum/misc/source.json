@@ -1,0 +1,6 @@
+{
+  "problem": "Partition Equal Subset Sum",
+  "number": 416,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0416-partition-equal-subset-sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/partition-equal-subset-sum/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Climbing Stairs",
+  "number": 70,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0070-climbing-stairs.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/easy/climbing-stairs/README.md"
+}

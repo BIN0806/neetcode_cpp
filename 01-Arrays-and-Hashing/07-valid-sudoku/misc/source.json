@@ -1,0 +1,6 @@
+{
+  "problem": "Valid Sudoku",
+  "number": 36,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0036-valid-sudoku.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/valid-sudoku/README.md"
+}

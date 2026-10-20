@@ -1,0 +1,6 @@
+{
+  "problem": "Valid Anagram",
+  "number": 242,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0242-valid-anagram.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/easy/valid-anagram/README.md"
+}

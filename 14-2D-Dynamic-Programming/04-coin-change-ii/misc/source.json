@@ -1,0 +1,6 @@
+{
+  "problem": "Coin Change II",
+  "number": 518,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0518-coin-change-ii.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/coin-change-ii/README.md"
+}

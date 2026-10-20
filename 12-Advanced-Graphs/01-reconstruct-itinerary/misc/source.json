@@ -1,0 +1,6 @@
+{
+  "problem": "Reconstruct Itinerary",
+  "number": 332,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0332-reconstruct-itinerary.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/12-advanced-graphs/hard/reconstruct-itinerary/README.md"
+}

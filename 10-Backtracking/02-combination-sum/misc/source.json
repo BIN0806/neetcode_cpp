@@ -1,0 +1,6 @@
+{
+  "problem": "Combination Sum",
+  "number": 39,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0039-combination-sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/medium/combination-sum/README.md"
+}

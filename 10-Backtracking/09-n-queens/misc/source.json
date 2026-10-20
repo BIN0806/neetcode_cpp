@@ -1,0 +1,6 @@
+{
+  "problem": "N Queens",
+  "number": 51,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0051-n-queens.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/hard/n-queens/README.md"
+}

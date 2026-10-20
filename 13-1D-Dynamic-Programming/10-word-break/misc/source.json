@@ -1,0 +1,6 @@
+{
+  "problem": "Word Break",
+  "number": 139,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0139-word-break.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/word-break/README.md"
+}

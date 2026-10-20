@@ -1,0 +1,6 @@
+{
+  "problem": "Best Time to Buy And Sell Stock With Cooldown",
+  "number": 309,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0309-best-time-to-buy-and-sell-stock-with-cooldown.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/best-time-to-buy-and-sell-stock-with-cooldown/README.md"
+}

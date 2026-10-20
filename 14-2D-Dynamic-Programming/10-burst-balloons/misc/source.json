@@ -1,0 +1,6 @@
+{
+  "problem": "Burst Balloons",
+  "number": 312,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0312-burst-balloons.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/hard/burst-balloons/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Insert Interval",
+  "number": 57,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0057-insert-interval.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/16-intervals/medium/insert-interval/README.md"
+}

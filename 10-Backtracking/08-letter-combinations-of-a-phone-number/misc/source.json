@@ -1,0 +1,6 @@
+{
+  "problem": "Letter Combinations of a Phone Number",
+  "number": 17,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0017-letter-combinations-of-a-phone-number.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/medium/letter-combinations-of-a-phone-number/README.md"
+}

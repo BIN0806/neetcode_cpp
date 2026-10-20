@@ -1,0 +1,6 @@
+{
+  "problem": "Find Median From Data Stream",
+  "number": 295,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0295-find-median-from-data-stream.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/hard/find-median-from-data-stream/README.md"
+}

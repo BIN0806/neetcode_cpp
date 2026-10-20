@@ -1,0 +1,6 @@
+{
+  "problem": "Task Scheduler",
+  "number": 621,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0621-task-scheduler.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/medium/task-scheduler/README.md"
+}

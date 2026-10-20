@@ -1,0 +1,6 @@
+{
+  "problem": "Diameter of Binary Tree",
+  "number": 543,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0543-diameter-of-binary-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/easy/diameter-of-binary-tree/README.md"
+}

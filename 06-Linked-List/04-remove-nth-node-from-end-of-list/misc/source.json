@@ -1,0 +1,6 @@
+{
+  "problem": "Remove Nth Node From End of List",
+  "number": 19,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0019-remove-nth-node-from-end-of-list.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/medium/remove-nth-node-from-end-of-list/README.md"
+}

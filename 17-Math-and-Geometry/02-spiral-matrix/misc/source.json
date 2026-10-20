@@ -1,0 +1,6 @@
+{
+  "problem": "Spiral Matrix",
+  "number": 54,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0054-spiral-matrix.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/17-math-geometry/medium/spiral-matrix/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Top K Frequent Elements",
+  "number": 347,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0347-top-k-frequent-elements.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/medium/top-k-frequent-elements/README.md"
+}

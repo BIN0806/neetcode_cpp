@@ -1,0 +1,6 @@
+{
+  "problem": "Set Matrix Zeroes",
+  "number": 73,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0073-set-matrix-zeroes.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/17-math-geometry/medium/set-matrix-zeroes/README.md"
+}

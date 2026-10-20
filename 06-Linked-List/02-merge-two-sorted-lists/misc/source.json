@@ -1,0 +1,6 @@
+{
+  "problem": "Merge Two Sorted Lists",
+  "number": 21,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0021-merge-two-sorted-lists.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/easy/merge-two-sorted-lists/README.md"
+}

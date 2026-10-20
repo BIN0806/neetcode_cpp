@@ -1,0 +1,6 @@
+{
+  "problem": "Decode Ways",
+  "number": 91,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0091-decode-ways.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/decode-ways/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Two Sum II Input Array Is Sorted",
+  "number": 167,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0167-two-sum-ii-input-array-is-sorted.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/02-two-pointers/medium/two-sum-ii-input-array-is-sorted/README.md"
+}

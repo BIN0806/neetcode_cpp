@@ -1,0 +1,6 @@
+{
+  "problem": "Coin Change",
+  "number": 322,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0322-coin-change.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/coin-change/README.md"
+}

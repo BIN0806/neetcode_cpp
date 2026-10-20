@@ -1,0 +1,6 @@
+{
+  "problem": "Interleaving String",
+  "number": 97,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0097-interleaving-string.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/interleaving-string/README.md"
+}

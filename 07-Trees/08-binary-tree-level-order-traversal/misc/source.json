@@ -1,0 +1,6 @@
+{
+  "problem": "Binary Tree Level Order Traversal",
+  "number": 102,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0102-binary-tree-level-order-traversal.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/medium/binary-tree-level-order-traversal/README.md"
+}

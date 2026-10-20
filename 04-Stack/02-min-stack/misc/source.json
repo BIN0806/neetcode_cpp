@@ -1,0 +1,6 @@
+{
+  "problem": "Min Stack",
+  "number": 155,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0155-min-stack.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/medium/min-stack/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Maximum Subarray",
+  "number": 53,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0053-maximum-subarray.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/15-greedy/medium/maximum-subarray/README.md"
+}

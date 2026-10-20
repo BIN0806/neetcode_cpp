@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Common Subsequence",
+  "number": 1143,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1143-longest-common-subsequence.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/longest-common-subsequence/README.md"
+}

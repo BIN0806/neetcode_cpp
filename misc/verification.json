@@ -1,0 +1,1068 @@
+{
+  "problem_count": 150,
+  "reference_problems_passed": 150,
+  "starter_problems_compiled": 150,
+  "test_groups": 693,
+  "assertions": 3020,
+  "date": "2026-10-20",
+  "compiler": "Apple clang++ (C++20)",
+  "details": [
+    {
+      "number": 217,
+      "title": "Contains Duplicate",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 155
+    },
+    {
+      "number": 242,
+      "title": "Valid Anagram",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 1,
+      "title": "Two Sum",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 71
+    },
+    {
+      "number": 49,
+      "title": "Group Anagrams",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 347,
+      "title": "Top K Frequent Elements",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 238,
+      "title": "Product of Array Except Self",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 36,
+      "title": "Valid Sudoku",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 271,
+      "title": "Encode and Decode Strings",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 128,
+      "title": "Longest Consecutive Sequence",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 125,
+      "title": "Valid Palindrome",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 167,
+      "title": "Two Sum II Input Array Is Sorted",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 15,
+      "title": "3Sum",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 11,
+      "title": "Container With Most Water",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 42,
+      "title": "Trapping Rain Water",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 121,
+      "title": "Best Time to Buy And Sell Stock",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 3,
+      "title": "Longest Substring Without Repeating Characters",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 106
+    },
+    {
+      "number": 424,
+      "title": "Longest Repeating Character Replacement",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 567,
+      "title": "Permutation In String",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 76,
+      "title": "Minimum Window Substring",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 239,
+      "title": "Sliding Window Maximum",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 20,
+      "title": "Valid Parentheses",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 6
+    },
+    {
+      "number": 155,
+      "title": "Min Stack",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 9
+    },
+    {
+      "number": 150,
+      "title": "Evaluate Reverse Polish Notation",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 22,
+      "title": "Generate Parentheses",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 3
+    },
+    {
+      "number": 739,
+      "title": "Daily Temperatures",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 853,
+      "title": "Car Fleet",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 84,
+      "title": "Largest Rectangle In Histogram",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 704,
+      "title": "Binary Search",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 74,
+      "title": "Search a 2D Matrix",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 875,
+      "title": "Koko Eating Bananas",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 153,
+      "title": "Find Minimum In Rotated Sorted Array",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 33,
+      "title": "Search In Rotated Sorted Array",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 981,
+      "title": "Time Based Key Value Store",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 9
+    },
+    {
+      "number": 4,
+      "title": "Median of Two Sorted Arrays",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 106
+    },
+    {
+      "number": 206,
+      "title": "Reverse Linked List",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 20
+    },
+    {
+      "number": 21,
+      "title": "Merge Two Sorted Lists",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 26
+    },
+    {
+      "number": 143,
+      "title": "Reorder List",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 28
+    },
+    {
+      "number": 19,
+      "title": "Remove Nth Node From End of List",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 16
+    },
+    {
+      "number": 138,
+      "title": "Copy List With Random Pointer",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 33
+    },
+    {
+      "number": 2,
+      "title": "Add Two Numbers",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 32
+    },
+    {
+      "number": 141,
+      "title": "Linked List Cycle",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 287,
+      "title": "Find The Duplicate Number",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 146,
+      "title": "LRU Cache",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 11
+    },
+    {
+      "number": 23,
+      "title": "Merge K Sorted Lists",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 28
+    },
+    {
+      "number": 25,
+      "title": "Reverse Nodes In K Group",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 34
+    },
+    {
+      "number": 226,
+      "title": "Invert Binary Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 24
+    },
+    {
+      "number": 104,
+      "title": "Maximum Depth of Binary Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 543,
+      "title": "Diameter of Binary Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 110,
+      "title": "Balanced Binary Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 100,
+      "title": "Same Tree",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 572,
+      "title": "Subtree of Another Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 235,
+      "title": "Lowest Common Ancestor of a Binary Search Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 102,
+      "title": "Binary Tree Level Order Traversal",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 199,
+      "title": "Binary Tree Right Side View",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 1448,
+      "title": "Count Good Nodes In Binary Tree",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 98,
+      "title": "Validate Binary Search Tree",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 230,
+      "title": "Kth Smallest Element In a Bst",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 105,
+      "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 28
+    },
+    {
+      "number": 124,
+      "title": "Binary Tree Maximum Path Sum",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 297,
+      "title": "Serialize And Deserialize Binary Tree",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 33
+    },
+    {
+      "number": 208,
+      "title": "Implement Trie Prefix Tree",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 9
+    },
+    {
+      "number": 211,
+      "title": "Design Add And Search Words Data Structure",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 11
+    },
+    {
+      "number": 212,
+      "title": "Word Search II",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 703,
+      "title": "Kth Largest Element In a Stream",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 9
+    },
+    {
+      "number": 1046,
+      "title": "Last Stone Weight",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 973,
+      "title": "K Closest Points to Origin",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 215,
+      "title": "Kth Largest Element In An Array",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 621,
+      "title": "Task Scheduler",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 355,
+      "title": "Design Twitter",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 7
+    },
+    {
+      "number": 295,
+      "title": "Find Median From Data Stream",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 23
+    },
+    {
+      "number": 78,
+      "title": "Subsets",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 3
+    },
+    {
+      "number": 39,
+      "title": "Combination Sum",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 46,
+      "title": "Permutations",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 3
+    },
+    {
+      "number": 90,
+      "title": "Subsets II",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 3
+    },
+    {
+      "number": 40,
+      "title": "Combination Sum II",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 79,
+      "title": "Word Search",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 131,
+      "title": "Palindrome Partitioning",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 17,
+      "title": "Letter Combinations of a Phone Number",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 51,
+      "title": "N Queens",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 259
+    },
+    {
+      "number": 200,
+      "title": "Number of Islands",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 133,
+      "title": "Clone Graph",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 32
+    },
+    {
+      "number": 695,
+      "title": "Max Area of Island",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 417,
+      "title": "Pacific Atlantic Water Flow",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 130,
+      "title": "Surrounded Regions",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 994,
+      "title": "Rotting Oranges",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 286,
+      "title": "Walls And Gates",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 207,
+      "title": "Course Schedule",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 210,
+      "title": "Course Schedule II",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 684,
+      "title": "Redundant Connection",
+      "status": "PASS",
+      "cases": 3,
+      "assertions": 3
+    },
+    {
+      "number": 323,
+      "title": "Number of Connected Components In An Undirected Graph",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 261,
+      "title": "Graph Valid Tree",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 127,
+      "title": "Word Ladder",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 332,
+      "title": "Reconstruct Itinerary",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 1584,
+      "title": "Min Cost to Connect All Points",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 743,
+      "title": "Network Delay Time",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 778,
+      "title": "Swim In Rising Water",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 269,
+      "title": "Alien Dictionary",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 6
+    },
+    {
+      "number": 787,
+      "title": "Cheapest Flights Within K Stops",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 70,
+      "title": "Climbing Stairs",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 746,
+      "title": "Min Cost Climbing Stairs",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 198,
+      "title": "House Robber",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 213,
+      "title": "House Robber II",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 5,
+      "title": "Longest Palindromic Substring",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 18
+    },
+    {
+      "number": 647,
+      "title": "Palindromic Substrings",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 91,
+      "title": "Decode Ways",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 7
+    },
+    {
+      "number": 322,
+      "title": "Coin Change",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 152,
+      "title": "Maximum Product Subarray",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 139,
+      "title": "Word Break",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 300,
+      "title": "Longest Increasing Subsequence",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 416,
+      "title": "Partition Equal Subset Sum",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 62,
+      "title": "Unique Paths",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 1143,
+      "title": "Longest Common Subsequence",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 309,
+      "title": "Best Time to Buy And Sell Stock With Cooldown",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 518,
+      "title": "Coin Change II",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 494,
+      "title": "Target Sum",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 97,
+      "title": "Interleaving String",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 329,
+      "title": "Longest Increasing Path In a Matrix",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 115,
+      "title": "Distinct Subsequences",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 72,
+      "title": "Edit Distance",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 312,
+      "title": "Burst Balloons",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 10,
+      "title": "Regular Expression Matching",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 6
+    },
+    {
+      "number": 53,
+      "title": "Maximum Subarray",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 55,
+      "title": "Jump Game",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 45,
+      "title": "Jump Game II",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 134,
+      "title": "Gas Station",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 846,
+      "title": "Hand of Straights",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 1899,
+      "title": "Merge Triplets to Form Target Triplet",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 763,
+      "title": "Partition Labels",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 678,
+      "title": "Valid Parenthesis String",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 6
+    },
+    {
+      "number": 57,
+      "title": "Insert Interval",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 56,
+      "title": "Merge Intervals",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 435,
+      "title": "Non Overlapping Intervals",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 252,
+      "title": "Meeting Rooms",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 253,
+      "title": "Meeting Rooms II",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 1851,
+      "title": "Minimum Interval to Include Each Query",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 48,
+      "title": "Rotate Image",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 54,
+      "title": "Spiral Matrix",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 73,
+      "title": "Set Matrix Zeroes",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 202,
+      "title": "Happy Number",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 66,
+      "title": "Plus One",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 50,
+      "title": "Pow(x, n)",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 7
+    },
+    {
+      "number": 43,
+      "title": "Multiply Strings",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 2013,
+      "title": "Detect Squares",
+      "status": "PASS",
+      "cases": 2,
+      "assertions": 6
+    },
+    {
+      "number": 136,
+      "title": "Single Number",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 191,
+      "title": "Number of 1 Bits",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 338,
+      "title": "Counting Bits",
+      "status": "PASS",
+      "cases": 4,
+      "assertions": 4
+    },
+    {
+      "number": 190,
+      "title": "Reverse Bits",
+      "status": "PASS",
+      "cases": 5,
+      "assertions": 5
+    },
+    {
+      "number": 268,
+      "title": "Missing Number",
+      "status": "PASS",
+      "cases": 6,
+      "assertions": 105
+    },
+    {
+      "number": 371,
+      "title": "Sum of Two Integers",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 306
+    },
+    {
+      "number": 7,
+      "title": "Reverse Integer",
+      "status": "PASS",
+      "cases": 7,
+      "assertions": 7
+    }
+  ],
+  "category_reorganization": {
+    "date": "2026-10-20",
+    "category_count": 18,
+    "starters_compiled": 150,
+    "reference_problems_passed": 150,
+    "runner_checks_passed": 8
+  }
+}

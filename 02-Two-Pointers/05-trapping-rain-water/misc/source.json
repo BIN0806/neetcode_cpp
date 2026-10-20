@@ -1,0 +1,6 @@
+{
+  "problem": "Trapping Rain Water",
+  "number": 42,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0042-trapping-rain-water.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/02-two-pointers/hard/trapping-rain-water/README.md"
+}

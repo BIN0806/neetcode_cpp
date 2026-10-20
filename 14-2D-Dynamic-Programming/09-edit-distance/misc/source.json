@@ -1,0 +1,6 @@
+{
+  "problem": "Edit Distance",
+  "number": 72,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/14-2D-Dynamic-Programming/09-edit-distance/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/hard/edit-distance/README.md"
+}

@@ -1,0 +1,6 @@
+{
+  "problem": "Minimum Interval to Include Each Query",
+  "number": 1851,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1851-minimum-interval-to-include-each-query.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/16-intervals/hard/minimum-interval-to-include-each-query/README.md"
+}

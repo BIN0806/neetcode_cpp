@@ -1,0 +1,6 @@
+{
+  "problem": "Partition Labels",
+  "number": 763,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0763-partition-labels.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/15-greedy/medium/partition-labels/README.md"
+}

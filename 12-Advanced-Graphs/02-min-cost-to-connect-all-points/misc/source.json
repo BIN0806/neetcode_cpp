@@ -1,0 +1,6 @@
+{
+  "problem": "Min Cost to Connect All Points",
+  "number": 1584,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1584-min-cost-to-connect-all-points.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/12-advanced-graphs/medium/min-cost-to-connect-all-points/README.md"
+}

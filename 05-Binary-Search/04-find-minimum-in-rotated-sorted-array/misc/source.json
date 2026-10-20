@@ -1,0 +1,6 @@
+{
+  "problem": "Find Minimum In Rotated Sorted Array",
+  "number": 153,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0153-find-minimum-in-rotated-sorted-array.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/05-binary-search/medium/find-minimum-in-rotated-sorted-array/README.md"
+}

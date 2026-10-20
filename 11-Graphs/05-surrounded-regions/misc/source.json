@@ -1,0 +1,6 @@
+{
+  "problem": "Surrounded Regions",
+  "number": 130,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/11-Graphs/05-surrounded-regions/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/surrounded-regions/README.md"
+}

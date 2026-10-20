@@ -1,0 +1,6 @@
+{
+  "problem": "Cheapest Flights Within K Stops",
+  "number": 787,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/12-Advanced-Graphs/06-cheapest-flights-within-k-stops/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/12-advanced-graphs/medium/cheapest-flights-within-k-stops/README.md"
+}

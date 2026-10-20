@@ -1,0 +1,6 @@
+{
+  "problem": "Serialize And Deserialize Binary Tree",
+  "number": 297,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0297-serialize-and-deserialize-binary-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/hard/serialize-and-deserialize-binary-tree/README.md"
+}

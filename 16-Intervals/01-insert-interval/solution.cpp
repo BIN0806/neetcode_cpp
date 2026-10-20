@@ -1,0 +1,11 @@
+// Insert Interval (LeetCode 57)
+// Read README.md, implement the method(s), then run ./test
+#include "../../misc/include/neetcode.hpp"
+
+class Solution {
+public:
+    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
+        // TODO: write your solution here.
+        throw nc::NotImplemented();
+    }
+};

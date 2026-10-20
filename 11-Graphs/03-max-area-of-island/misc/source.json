@@ -1,0 +1,6 @@
+{
+  "problem": "Max Area of Island",
+  "number": 695,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0695-max-area-of-island.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/11-graphs/medium/max-area-of-island/README.md"
+}

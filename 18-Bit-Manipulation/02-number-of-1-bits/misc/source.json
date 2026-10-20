@@ -1,0 +1,6 @@
+{
+  "problem": "Number of 1 Bits",
+  "number": 191,
+  "reference": "https://github.com/baadaldev/neetcode-150-cpp/blob/main/18-Bit-Manipulation/02-number-of-1-bits/solution.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/18-bit-manipulation/easy/number-of-1-bits/README.md"
+}

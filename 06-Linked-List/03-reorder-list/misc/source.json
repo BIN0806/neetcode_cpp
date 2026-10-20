@@ -1,0 +1,6 @@
+{
+  "problem": "Reorder List",
+  "number": 143,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0143-reorder-list.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/medium/reorder-list/README.md"
+}

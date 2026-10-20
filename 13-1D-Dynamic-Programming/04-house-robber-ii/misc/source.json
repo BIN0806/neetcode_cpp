@@ -1,0 +1,6 @@
+{
+  "problem": "House Robber II",
+  "number": 213,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0213-house-robber-ii.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/house-robber-ii/README.md"
+}

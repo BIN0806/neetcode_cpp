@@ -1,0 +1,6 @@
+{
+  "problem": "Evaluate Reverse Polish Notation",
+  "number": 150,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0150-evaluate-reverse-polish-notation.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/medium/evaluate-reverse-polish-notation/README.md"
+}

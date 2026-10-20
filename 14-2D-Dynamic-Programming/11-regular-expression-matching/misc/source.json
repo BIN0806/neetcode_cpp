@@ -1,0 +1,6 @@
+{
+  "problem": "Regular Expression Matching",
+  "number": 10,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0010-regular-expression-matching.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/hard/regular-expression-matching/README.md"
+}

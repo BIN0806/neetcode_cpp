@@ -1,0 +1,6 @@
+{
+  "problem": "Lowest Common Ancestor of a Binary Search Tree",
+  "number": 235,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0235-lowest-common-ancestor-of-a-binary-search-tree.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/07-trees/medium/lowest-common-ancestor-of-a-binary-search-tree/README.md"
+}

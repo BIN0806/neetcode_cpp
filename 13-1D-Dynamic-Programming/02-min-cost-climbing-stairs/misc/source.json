@@ -1,0 +1,6 @@
+{
+  "problem": "Min Cost Climbing Stairs",
+  "number": 746,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0746-min-cost-climbing-stairs.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/easy/min-cost-climbing-stairs/README.md"
+}

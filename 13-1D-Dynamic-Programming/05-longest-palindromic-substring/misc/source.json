@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Palindromic Substring",
+  "number": 5,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0005-longest-palindromic-substring.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/13-1-d-dynamic-programming/medium/longest-palindromic-substring/README.md"
+}

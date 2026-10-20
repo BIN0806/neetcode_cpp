@@ -1,0 +1,6 @@
+{
+  "problem": "Design Twitter",
+  "number": 355,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0355-design-twitter.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/09-heap-priority-queue/medium/design-twitter/README.md"
+}

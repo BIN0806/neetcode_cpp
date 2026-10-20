@@ -1,0 +1,6 @@
+{
+  "problem": "Target Sum",
+  "number": 494,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0494-target-sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/14-2-d-dynamic-programming/medium/target-sum/README.md"
+}

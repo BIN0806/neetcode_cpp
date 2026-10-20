@@ -1,0 +1,6 @@
+{
+  "problem": "Permutations",
+  "number": 46,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0046-permutations.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/medium/permutations/README.md"
+}

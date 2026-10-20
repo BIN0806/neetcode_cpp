@@ -1,0 +1,6 @@
+{
+  "problem": "Merge Triplets to Form Target Triplet",
+  "number": 1899,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/1899-merge-triplets-to-form-target-triplet.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/15-greedy/medium/merge-triplets-to-form-target-triplet/README.md"
+}

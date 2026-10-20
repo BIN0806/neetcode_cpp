@@ -1,0 +1,6 @@
+{
+  "problem": "LRU Cache",
+  "number": 146,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0146-lru-cache.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/medium/lru-cache/README.md"
+}

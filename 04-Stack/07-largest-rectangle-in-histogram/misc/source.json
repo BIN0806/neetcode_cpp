@@ -1,0 +1,6 @@
+{
+  "problem": "Largest Rectangle In Histogram",
+  "number": 84,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0084-largest-rectangle-in-histogram.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/04-stack/hard/largest-rectangle-in-histogram/README.md"
+}

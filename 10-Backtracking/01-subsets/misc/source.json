@@ -1,0 +1,6 @@
+{
+  "problem": "Subsets",
+  "number": 78,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0078-subsets.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/medium/subsets/README.md"
+}

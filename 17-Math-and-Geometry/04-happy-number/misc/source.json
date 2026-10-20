@@ -1,0 +1,6 @@
+{
+  "problem": "Happy Number",
+  "number": 202,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0202-happy-number.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/17-math-geometry/easy/happy-number/README.md"
+}

@@ -1,0 +1,6 @@
+misc/build/
+misc/progress.json
+misc/.progress-*
+__pycache__/
+*.dSYM/
+.DS_Store

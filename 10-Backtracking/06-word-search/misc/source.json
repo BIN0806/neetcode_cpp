@@ -1,0 +1,6 @@
+{
+  "problem": "Word Search",
+  "number": 79,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0079-word-search.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/10-backtracking/medium/word-search/README.md"
+}

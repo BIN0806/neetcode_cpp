@@ -1,0 +1,6 @@
+{
+  "problem": "Minimum Window Substring",
+  "number": 76,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0076-minimum-window-substring.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/hard/minimum-window-substring/README.md"
+}

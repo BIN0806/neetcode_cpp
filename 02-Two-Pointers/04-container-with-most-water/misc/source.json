@@ -1,0 +1,6 @@
+{
+  "problem": "Container With Most Water",
+  "number": 11,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0011-container-with-most-water.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/02-two-pointers/medium/container-with-most-water/README.md"
+}

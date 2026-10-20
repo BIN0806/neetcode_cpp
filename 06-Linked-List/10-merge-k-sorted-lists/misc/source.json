@@ -1,0 +1,6 @@
+{
+  "problem": "Merge K Sorted Lists",
+  "number": 23,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0023-merge-k-sorted-lists.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/06-linked-list/hard/merge-k-sorted-lists/README.md"
+}

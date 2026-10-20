@@ -1,0 +1,6 @@
+{
+  "problem": "Missing Number",
+  "number": 268,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0268-missing-number.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/18-bit-manipulation/easy/missing-number/README.md"
+}

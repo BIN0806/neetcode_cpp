@@ -1,0 +1,6 @@
+{
+  "problem": "Contains Duplicate",
+  "number": 217,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0217-contains-duplicate.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/01-arrays-hashing/easy/contains-duplicate/README.md"
+}

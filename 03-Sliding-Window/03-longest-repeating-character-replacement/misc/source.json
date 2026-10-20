@@ -1,0 +1,6 @@
+{
+  "problem": "Longest Repeating Character Replacement",
+  "number": 424,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0424-longest-repeating-character-replacement.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/03-sliding-window/medium/longest-repeating-character-replacement/README.md"
+}

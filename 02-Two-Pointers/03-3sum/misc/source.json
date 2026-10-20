@@ -1,0 +1,6 @@
+{
+  "problem": "3Sum",
+  "number": 15,
+  "reference": "https://github.com/neetcode-gh/leetcode/blob/main/cpp/0015-3sum.cpp",
+  "description": "https://github.com/richard7ao/neetcode-150/blob/main/problems/02-two-pointers/medium/3sum/README.md"
+}
